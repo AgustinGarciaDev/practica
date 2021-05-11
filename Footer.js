@@ -11,6 +11,9 @@ const Footer=()=>{
                 <img src="../assets/inst.png" alt="instangram" className="img-social"/>
                 <img src="../assets/wsp.png" alt="whatsapp" className="img-social"/>
             </div>
+            <div>
+                <p>ACA LA INFOOO JAJAJAJA</p>
+            </div>
         
         </div>
             <div >
