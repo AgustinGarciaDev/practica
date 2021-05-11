@@ -4,7 +4,7 @@ import React from 'react'
 const Footer=()=>{
     return(
  <div>
-    <div>   
+    <div>
         <div  className="footer">
             <div className="social">
                 <img src="../assets/fb.png" alt="facebook" className="img-social"/>
@@ -14,10 +14,11 @@ const Footer=()=>{
             <div>
                 <p>ACA LA INFOOO JAJAJAJA</p>
             </div>
-        
+
         </div>
             <div >
               <p>CHOCLAZO</p>
+              <p>Valentin</p>
             </div>
      </div>
 </div>
